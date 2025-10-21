@@ -1,12 +1,12 @@
-# scene 2: snooze your alarm and rest another half-hour
+# Scene 2: Snooze your alarm and rest another half-hour
 
-you decided the best thing to do was snooze your alarm. you enjoyed another 30 minutes in your warm bed.
+You decided the best thing to do was snooze your alarm. You enjoyed another 30 minutes in your warm bed.
 
 ---
 
-you're woken up again by the familiar sound of your blaring alarm. you check the time and realize you only have 30 minutes before you need to leave.
+You're woken up again by the familiar sound of your blaring alarm. You check the time and realize you only have 30 minutes before you need to leave.
 
-what will you do?
+What will you do?
 
-- 🍳[eat breakfast first](./scene3A.md)
-- 🪥[get ready to leave](./scene3B.md)
+- 🍳[Eat Breakfast First](./scene3A.md)
+- 🪥[Get Ready to Leave](./scene3B.md)
