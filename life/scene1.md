@@ -6,6 +6,6 @@ you want to go back to sleep, but you faintly remember having something importan
 
 what will you do?
 
-- 🥱 [climb out of bed and get ready](./scene2A)
-- ⏰ [snooze your alarm and rest another half-hour](./scene2B)
-- 😌 [slam your alarm against the opposite wall and fall back asleep](./scene2C)
+- 🥱 [climb out of bed and get ready](./scene2A.md)
+- ⏰ [snooze your alarm and rest another half-hour](./scene2B.md)
+- 😌 [slam your alarm against the opposite wall and fall back asleep](./scene2C.md)

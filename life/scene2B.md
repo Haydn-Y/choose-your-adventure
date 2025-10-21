@@ -8,5 +8,5 @@ you're woken up again by the familiar sound of your blaring alarm. you check the
 
 what will you do?
 
-- 🍳[eat breakfast first](./scene3A)
-- 🪥[get ready to leave](./scene3B)
+- 🍳[eat breakfast first](./scene3A.md)
+- 🪥[get ready to leave](./scene3B.md)
