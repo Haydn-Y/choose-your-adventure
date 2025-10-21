@@ -6,5 +6,5 @@ Regardless, you decide to take a minute to relax and eat a nice, hearty meal. Yo
 
 You've narrowed your options down to two. Which will it be?
 
-- 🍞[A Few Pieces of Toast]()
-- 🥞[Triple-Layered Maple-Glazed Buttermilk Pancake Tower with Caramelized Banana Compote]()
+- 🍞[A Few Pieces of Toast](./scene4C.md)
+- 🥞[Triple-Layered Maple-Glazed Buttermilk Pancake Tower with Caramelized Banana Compote](./scene4D.md)
