@@ -1,5 +1,5 @@
-# life
+# Life
 
-this is a 100% accurate life simulation.
+This is a 100% accurate life simulation.
 
-[click here to start](./scene1.md)
+[Click Here to Start](./scene1.md)
