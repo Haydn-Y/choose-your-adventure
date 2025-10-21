@@ -10,5 +10,5 @@ You greet them, ambling towards the front counter while you think about what you
 
 What will you choose?
 
-- 🌯[Breakfast Burrito with a Fruit Salad](./scene5A.md)
-- 🍔[Half-Pound Double Bacon Cheeseburger with Beer-Battered Fries](./scene5B.md)
+- 🌯[Breakfast Burrito with a Fruit Salad](./scene5C.md)
+- 🍔[Half-Pound Double Bacon Cheeseburger with Beer-Battered Fries](./scene5D.md)
