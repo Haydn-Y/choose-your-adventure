@@ -1,4 +1,4 @@
-# scene 1
+# Scene 1
 
 You wake up to your warm bed, the soft golden glow of the morning sun shining through your swaying curtains. A loud blaring from your nightstand interrupts your relaxed state.
 
