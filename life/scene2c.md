@@ -6,6 +6,6 @@ Relieved, you pull your covers up to your neck and fall back asleep with a smile
 
 ---
 
-You wake up and check your clock. you missed your date. crap.
+You wake up and check your clock. You missed your date. Crap.
 
 - 🔄️[Try Again?](./_start-here.md)
