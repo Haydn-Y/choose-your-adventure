@@ -8,5 +8,5 @@ You have plenty of time, some gaming wouldn't hurt, right? You boot up your cons
 
 Which type of game will you choose?
 
--🔫[First Person Shooter](./scene4C.md)
--🐲[Role Playing Game](./scene4D.md)
+- 🔫[First Person Shooter](./scene4G.md)
+- 🐲[Role Playing Game](./scene4H.md)
