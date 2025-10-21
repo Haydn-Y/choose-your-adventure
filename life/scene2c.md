@@ -1,4 +1,4 @@
-# scene 2: slam your alarm against the opposite wall and fall back asleep
+# Scene 2: Slam your alarm against the opposite wall and fall back asleep
 
 Out of pure rage, you gently unplugged your alarm by the plug (safety first) and hurled it at the opposite wall, breaking it into thousands of small plastic shards.
 
